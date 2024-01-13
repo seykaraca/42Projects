@@ -41,9 +41,7 @@ int	main(int ac, char **av)
 {
 	t_free	freesplit;
 	char	**data;
-	int		i;
-
-	i = -1;
+	
 	data = NULL;
 	freesplit.i = 0;
 	if (ac > 1)
